@@ -13,7 +13,7 @@ sections:
   - component: FeaturesBlock
     featureslist:
       - actions:
-          - label: Get Started
+          - label: Scrijf in
             url: docs/index.html
         content: >-
           KSVOT speelt in 3de provinciale en wij bieden gewestelijke
@@ -26,24 +26,25 @@ sections:
           gezonde en sportieve clubgeest.
         title: Voetballen bij KSVOT
       - actions:
-          - label: Send mail
-            url: blog/index.html
-        content: >-
-          Wij zijn op zoek naar enthousiaste mensen die graag met ons mee willen
-          denken en  helpen met de dagelijkse werking van de club. Dus als je
-          goede ideeën hebt om onze jeugdwerking verder uit te bouwen of je wilt
-          ons helpen met het organiseren van evenementen, aarzel dan niet om
-          contact op te nemen met ons.Wat moet je doen als bestuurslid? Wel, wij
-          houden regelmatig een vergadering waar de belangrijkste zaken worden
-          besproken om een zo goed mogelijk kader te vormen, waarin zowel
-          jeugdspelers, jeugdtrainers en begeleiders zich ten volle kunnen
-          gooien om hun hobby uit te oefenen. Ieder bestuurslid mag zijn mening
-          geven, eventueel enkele dingen uitwerken samen met andere
-          bestuursleden of leden.Geïnteresseerd ?  –>  stuur een mailtje naar
-          jeugdksvot@telenet.be
-        title: Nieuwe leden voor ons bestuur!
+          - label: Kalender
+            url: docs/index.html
+        content: |-
+          Vriendschappelijke wedstrijden 1ste ploeg :
+
+          woensdag 25/07 om 19:30 uur : KSVOT - De Kempen TL : 0 - 2\
+          dinsdag 31/07 om 19:30 uur : Lille - KSVOT : 3 - 2\
+          dinsdag 07/08 om 19:30 uur : White Star - KSVOT : niet gespeeld\
+          donderdag 16/08 om 20:00 uur : KSK Oosthoven - KSVOT 1 - 4\
+          dinsdag 21/08 om 19:30 uur : KSVOT - HIH Turnhout 6 - 2
+
+          Beker van Antwerpen : 
+
+          Beker van Oud-Turnhout :
+
+           De jeugdkalenders staan online, ze kunnen nog worden aangepast.
+        title: Belangrijke data eerste seizoen!
       - actions:
-          - label: Learn More
+          - label: Meer weten
             url: /style-guide.html
         content: >-
           Bij een voetbalclub komt meer kijken dan alleen maar voetbal. Om alles
@@ -64,12 +65,20 @@ sections:
         url: /docs/getting-started/index.html
     component: ContentBlock
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      Wij zijn op zoek naar enthousiaste mensen die graag met ons mee willen
+      denken en  helpen met de dagelijkse werking van de club. Dus als je goede
+      ideeën hebt om onze jeugdwerking verder uit te bouwen of je wilt ons
+      helpen met het organiseren van evenementen, aarzel dan niet om contact op
+      te nemen met ons.Wat moet je doen als bestuurslid? Wel, wij houden
+      regelmatig een vergadering waar de belangrijkste zaken worden besproken om
+      een zo goed mogelijk kader te vormen, waarin zowel jeugdspelers,
+      jeugdtrainers en begeleiders zich ten volle kunnen gooien om hun hobby uit
+      te oefenen. Ieder bestuurslid mag zijn mening geven, eventueel enkele
+      dingen uitwerken samen met andere bestuursleden of leden.Geïnteresseerd ? 
+      –>  stuur een mailtje naar jeugdksvot@telenet.be
     image: /images/ben-wiens-pregskqnriq-unsplash.jpg
     section_id: text-img
-    title: A Section With An Image
+    title: Nieuwe leden voor ons bestuur!
     type: contentblock
   - component: FeaturesBlock
     featureslist:
