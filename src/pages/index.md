@@ -29,17 +29,16 @@ sections:
           - label: Kalender
             url: docs/index.html
         content: |-
-          Vriendschappelijke wedstrijden 1ste ploeg :
+          Wedstrijden 1ste ploeg:
 
-          woensdag 25/07 om 19:30 uur : KSVOT - De Kempen TL : 0 - 2\
-          dinsdag 31/07 om 19:30 uur : Lille - KSVOT : 3 - 2\
-          dinsdag 07/08 om 19:30 uur : White Star - KSVOT : niet gespeeld\
-          donderdag 16/08 om 20:00 uur : KSK Oosthoven - KSVOT 1 - 4\
-          dinsdag 21/08 om 19:30 uur : KSVOT - HIH Turnhout 6 - 2
+          woensdag 25/07 om 19:30 uur: KSVOT - De Kempen TL: 0 - 2\
+          dinsdag 31/07 om 19:30 uur: Lille - KSVOT: 3 - 2\
+          donderdag 16/08 om 20:00 uur: KSK Oosthoven - KSVOT: 1 - 4\
+          dinsdag 21/08 om 19:30 uur: KSVOT - HIH Turnhout: 6 - 2
 
-          Beker van Antwerpen : 
+          Beker van Antwerpen: 
 
-          Beker van Oud-Turnhout :
+          Beker van Oud-Turnhout:
 
            De jeugdkalenders staan online, ze kunnen nog worden aangepast.
         title: Belangrijke data eerste seizoen!
