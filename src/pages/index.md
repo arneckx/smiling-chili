@@ -2,15 +2,13 @@
 title: Home
 sections:
   - actions:
-      - label: Get Started
+      - label: About us
         url: docs/index.html
     component: HeroBlock
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
-    image: images/5.jpg
+    content: 'Mijn club, mijn team, mijn thuis'
+    image: /images/nicholas-green-npz8akkumdi-unsplash.jpg
     section_id: hero
-    title: Hero Section
+    title: KSVOT
     type: heroblock
   - component: FeaturesBlock
     featureslist:
@@ -18,25 +16,45 @@ sections:
           - label: Get Started
             url: docs/index.html
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
-        title: Documentation
+          KSVOT speelt in 3de provinciale en wij bieden gewestelijke
+          jeugdvoetbal aan.Door onze verlengde samenwerking met KSK Retie spelen
+          onze U9 opnieuw op provinciaal niveau. KSVOT is een club die voetbal
+          wil promoten door voetbalplezier, voetbalvorming, teamsport en een
+          gezonde dosis competitiegeest. Wij willen dit bereiken door een
+          degelijk uitgebouwde jeugdwerking, waar opleiding, de speler en zijn
+          spelplezier centraal staan. Dit alles valt uiteraard samen met een
+          gezonde en sportieve clubgeest.
+        title: Voetballen bij KSVOT
       - actions:
-          - label: View Posts
+          - label: Send mail
             url: blog/index.html
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-        title: Blog
+          Wij zijn op zoek naar enthousiaste mensen die graag met ons mee willen
+          denken en  helpen met de dagelijkse werking van de club. Dus als je
+          goede ideeën hebt om onze jeugdwerking verder uit te bouwen of je wilt
+          ons helpen met het organiseren van evenementen, aarzel dan niet om
+          contact op te nemen met ons.Wat moet je doen als bestuurslid? Wel, wij
+          houden regelmatig een vergadering waar de belangrijkste zaken worden
+          besproken om een zo goed mogelijk kader te vormen, waarin zowel
+          jeugdspelers, jeugdtrainers en begeleiders zich ten volle kunnen
+          gooien om hun hobby uit te oefenen. Ieder bestuurslid mag zijn mening
+          geven, eventueel enkele dingen uitwerken samen met andere
+          bestuursleden of leden.Geïnteresseerd ?  –>  stuur een mailtje naar
+          jeugdksvot@telenet.be
+        title: Nieuwe leden voor ons bestuur!
       - actions:
           - label: Learn More
             url: /style-guide.html
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
-        title: Style Guides
+          Bij een voetbalclub komt meer kijken dan alleen maar voetbal. Om alles
+          rond "het spelletje" vlot te laten verlopen zijn er heel wat helpende
+          handen nodig. KSVOT is dan ook op zoek naar extra hulp voor in de
+          kantine, mensen die zich gedurende de week 's avonds, tijdens het
+          weekend of op wedstrijddagen even kunnen vrijmaken. Ook studenten zijn
+          hiervoor zeker welkom.Wie meer info wenst, kan contact opnemen met ons
+          via email op jeugdksvot@telenet.beVele handen maken het werk lichter.
+          Alvast bedankt!
+        title: Helpende handen gezocht
     section_id: features
     type: featuresblock
   - actions:
@@ -49,7 +67,7 @@ sections:
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
       consectetur lobortis.
-    image: images/10.jpg
+    image: /images/ben-wiens-pregskqnriq-unsplash.jpg
     section_id: text-img
     title: A Section With An Image
     type: contentblock
